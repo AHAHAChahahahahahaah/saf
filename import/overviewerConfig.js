@@ -42,34 +42,6 @@ var overviewerConfig = {
     },
     "tilesets": [
         {
-            "name": "North",
-            "zoomLevels": 10,
-            "defaultZoom": 1,
-            "maxZoom": 10,
-            "path": "north",
-            "base": "",
-            "bgcolor": "#1a1a1a",
-            "world": "World",
-            "last_rendertime": 1741281925,
-            "imgextension": "png",
-            "isOverlay": false,
-            "poititle": "Markers",
-            "showlocationmarker": true,
-            "center": [
-                4,
-                -1,
-                -31
-            ],
-            "lastrenderversion": 2,
-            "minZoom": 0,
-            "spawn": [
-                4,
-                -1,
-                -31
-            ],
-            "north_direction": 0
-        },
-        {
             "name": "West",
             "zoomLevels": 9,
             "defaultZoom": 1,
@@ -97,61 +69,5 @@ var overviewerConfig = {
             ],
             "north_direction": 1
         },
-        {
-            "name": "South",
-            "zoomLevels": 10,
-            "defaultZoom": 1,
-            "maxZoom": 10,
-            "path": "south",
-            "base": "",
-            "bgcolor": "#1a1a1a",
-            "world": "World",
-            "last_rendertime": 1741281925,
-            "imgextension": "png",
-            "isOverlay": false,
-            "poititle": "Markers",
-            "showlocationmarker": true,
-            "center": [
-                4,
-                -1,
-                -31
-            ],
-            "lastrenderversion": 2,
-            "minZoom": 0,
-            "spawn": [
-                4,
-                -1,
-                -31
-            ],
-            "north_direction": 2
-        },
-        {
-            "name": "East",
-            "zoomLevels": 9,
-            "defaultZoom": 1,
-            "maxZoom": 9,
-            "path": "east",
-            "base": "",
-            "bgcolor": "#1a1a1a",
-            "world": "World",
-            "last_rendertime": 1741281925,
-            "imgextension": "png",
-            "isOverlay": false,
-            "poititle": "Markers",
-            "showlocationmarker": true,
-            "center": [
-                4,
-                -1,
-                -31
-            ],
-            "lastrenderversion": 2,
-            "minZoom": 0,
-            "spawn": [
-                4,
-                -1,
-                -31
-            ],
-            "north_direction": 3
-        }
     ]
 };
