@@ -10,6 +10,9 @@ https://ahahachahahahahahaah.github.io/saf/import3
 import4 - 3 сезон
 https://ahahachahahahahahaah.github.io/saf/import4
 
+import5 - Сервер Шкафа
+https://ahahachahahahahahaah.github.io/saf/import5/#/105/64/-63/-3/World/north
+
 Paintings - картины
 https://ahahachahahahahahaah.github.io/saf/Paintings/paint.html
 
